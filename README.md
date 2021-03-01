@@ -7,6 +7,7 @@
 - Работоспособность в актуальной версии Google Chrome
 - Остальное на твоё усмотрение
 
-## Документация по работе с сервером: [Здесь](https://github.com/KosyanMedia/test-tasks/blob/master/aviasales_frontend/server.md)
+## Документация по работе с сервером
+[Найдете в server.md](./server.md)
 
 P.S.: Картинки авиакомпаний можешь брать с CDN Aviasales: `//pics.avs.io/99/36/{IATA_CODE_HERE}.png`
